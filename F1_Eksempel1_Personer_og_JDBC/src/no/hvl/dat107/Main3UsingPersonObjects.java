@@ -16,8 +16,8 @@ public class Main3UsingPersonObjects {
 //	static final String USER = "postgres";
 //	static final String PASS = Passwords.LOCALHOST_PASSWORD;
 	
- 	static final String DB_URL = "jdbc:postgresql://ider-database.westeurope.cloudapp.azure.com:5432/lph";
-	static final String USER = "lph";
+ 	static final String DB_URL = "jdbc:postgresql://ider-database.westeurope.cloudapp.azure.com:5432/h597663";
+	static final String USER = "h597663";
 	static final String PASS = Passwords.AZURE_PASSWORD;
 
 	public static void main(String[] args) throws ClassNotFoundException {
